@@ -6,5 +6,6 @@
 I'm a full stack developer that is just roaming around.
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iscosmos.github.io/)
+## My Github stats
+
 [![Comos's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscosmos&theme=github_dark )](https://github.com/iscosmos)
