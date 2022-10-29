@@ -10,6 +10,6 @@ I'm a full stack developer that is just roaming around.
 
 [![Scripting Languages](https://skillicons.dev/icons?i=js,ts,nodejs,html,css)](https://skillicons.dev)
 
-[![Tech](https://skillicons.dev/icons?i=discord,bots,github,linux,heroku,express,electron)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=discord,bots,github,linux,heroku,express,electron,mongo)](https://skillicons.dev)
 
 [![Comos's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscosmos&theme=github_dark )](https://github.com/iscosmos)
