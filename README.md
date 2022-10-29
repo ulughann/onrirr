@@ -14,4 +14,4 @@ I'm a full stack developer that is just roaming around.
 
 [![Comos's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscosmos&theme=github_dark )](https://github.com/iscosmos)
 
-[a](https://github-readme-stats.vercel.app/api/top-langs/?username=iscosmos)
+[!a](https://github-readme-stats.vercel.app/api/top-langs/?username=iscosmos)
