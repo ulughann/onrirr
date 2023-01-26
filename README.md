@@ -1,15 +1,1 @@
-
-![Logo](https://media.discordapp.net/attachments/1009029334222245919/1025073000225194004/20220929_073855.png?width=772&height=434)
-
-
-## 🚀 About Me
-I'm a full stack developer that is just roaming around.
-
-
-## My Github stats
-
-[![Scripting Languages](https://skillicons.dev/icons?i=js,ts,nodejs,html,css)](https://skillicons.dev)
-
-[![Tech](https://skillicons.dev/icons?i=discord,bots,github,linux,heroku,express,electron,mongo)](https://skillicons.dev)
-
-[![Comos's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscosmos&theme=github_dark )](https://github.com/iscosmos)
+![Metrics](https://metrics.lecoq.io/iscosmos?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=5&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FRiyadh)
